@@ -17,8 +17,8 @@
  * Boston, MA 02110-1301, USA.
  */
 
-import QtQuick 2.1
-import QtQuick.Controls 1.0
+import QtQuick 2.4
+import QtQuick.Controls 1.3
 
 Button {
     id: butt

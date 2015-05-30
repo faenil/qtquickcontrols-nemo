@@ -29,8 +29,8 @@
 **
 ****************************************************************************************/
 
-import QtQuick 2.1
-import QtQuick.Controls 1.0 // Needed for things like Stack attached properties
+import QtQuick 2.4
+import QtQuick.Controls 1.3 // Needed for things like Stack attached properties
 import QtQuick.Controls.Nemo 1.0
 import QtQuick.Controls.Styles.Nemo 1.0
 import QtQuick.Window 2.0

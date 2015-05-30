@@ -29,7 +29,7 @@
 **
 ****************************************************************************************/
 
-import QtQuick 2.1
+import QtQuick 2.4
 import QtQuick.Controls.Styles.Nemo 1.0
 
 Item {

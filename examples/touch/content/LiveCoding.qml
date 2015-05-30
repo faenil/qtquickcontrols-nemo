@@ -17,8 +17,8 @@
  * Boston, MA 02110-1301, USA.
  */
 
-import QtQuick 2.1
-import QtQuick.Controls 1.0 //needed for the Stack attached property
+import QtQuick 2.4
+import QtQuick.Controls 1.3 //needed for the Stack attached property
 import QtQuick.Controls.Nemo 1.0
 import QtQuick.Layouts 1.0
 
